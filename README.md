@@ -1,2 +1,2 @@
-# Bookish-Online-Book-Store
+# Bookish
 Online Book Store
